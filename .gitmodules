@@ -13,3 +13,6 @@
 [submodule "vim/bundle/command-t"]
 	path = vim/bundle/command-t
 	url = http://github.com/wincent/command-t
+[submodule "git/bundle/rainbow-parentheses"]
+	path = git/bundle/rainbow-parentheses
+	url = http://github.com/kien/rainbow_parentheses.vim
