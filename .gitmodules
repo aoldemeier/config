@@ -1,3 +1,15 @@
 [submodule "vim/bundle/fugitive"]
 	path = vim/bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
+[submodule "vim/bundle/nerdtree"]
+	path = vim/bundle/nerdtree
+	url = http://github.com/scrooloose/nerdtree.git
+[submodule "vim/bundle/ZoomWin"]
+	path = vim/bundle/ZoomWin
+	url = http://github.com/vim-scripts/ZoomWin
+[submodule "vim/bundle/numbers"]
+	path = vim/bundle/numbers
+	url = http://github.com/myusuf3/numbers.vim
+[submodule "vim/bundle/command-t"]
+	path = vim/bundle/command-t
+	url = http://github.com/wincent/command-t
